@@ -58,6 +58,7 @@ def game():
 
 def main():
     game()
+    print("bye")
 
 if __name__ == "__main__":
     main()
