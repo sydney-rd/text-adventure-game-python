@@ -1,4 +1,4 @@
-# AdventureGame
+# Adventure Game
 A basic, interactive adventure game based on the movie Hereditary
 
 # Requirements
